@@ -1,0 +1,38 @@
+CNC3018SwitcherV4011  Revised: Wednesday, May 17, 2023
+1          Revision: 1.0
+
+
+
+
+
+
+
+Bill Of Materials            May 18,2023      21:49:46	Page1
+
+Item	Quantity	Reference	PCB footprint	Part
+______________________________________________
+
+1	1	C1	CE10-01R	470u/16V
+2	1	C2	C-02	100n
+3	1	C3	C-01	1n
+4	1	C4	CE05-01R	4.7u
+5	3	D1,D4,D6	DO34-2	1N4148
+6	1	D2	LED-5MM	LED Laser Sel
+7	1	D3	LED-5MM	LED Motor Sel
+8	1	D5	LED-5MM	Tool On/Off
+9	1	J1	XH-JST-2.54-03	Laser In
+10	1	J2	XH-JST-2.54-03	Laser Out
+11	1	J3	SCREW-02	Motor In
+12	1	J4	SCREW-02	Motor Out
+13	1	J5	SIL-1X03	JPMode
+14	2	LS1,LS2	RELAIS08	12V/2RT/16A
+15	2	Q1,Q2	TO-18	2N2222
+16	2	Q3,Q4	TO-226	BC547
+17	2	R1,R4	R-04	22k
+18	3	R2,R7,R8	R-04	10k
+19	4	R3,R5,R9,R10	R-04	560
+20	1	R6	R-04	100k
+21	1	R11	R-04	33k
+22	1	SW1	MICROSWITCH-R	Tool Laser
+23	1	SW2	MICROSWITCH-R	Tool Motor
+24	1	U1	DIL-14	CD4011B
